@@ -2,7 +2,7 @@
 
 ### 🚀 About Me
 
- I am an AI expert. My expertise is in the field of machine learning algorithms, deep neural networks, computer vision and natural language processing.
+I am an AI expert in AI research and development. My expertise is in the field of machine learning algorithms, deep neural networks, computer vision and natural language processing, and I am also familiar with the design of mechanical and mechatronic systems. My goal is to create and develop solutions based on artificial intelligence to improve performance and productivity in issues.
 ## 🛠️ Skills
 ### Languages
  [![My Skills](https://skillicons.dev/icons?i=python,matlab)](https://skillicons.dev)
