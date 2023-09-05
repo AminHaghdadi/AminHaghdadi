@@ -31,6 +31,7 @@ I am an AI expert in AI research and development. My expertise is in the field o
 ![image](https://img.shields.io/badge/Dialogflow-FF9800.svg?style=for-the-badge&logo=Dialogflow&logoColor=white)
 ![image](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white)
 ![image](https://img.shields.io/badge/Heroku-430098.svg?style=for-the-badge&logo=Heroku&logoColor=white)
+![image](https://img.shields.io/badge/-LangChain-32CD32?logo=LangChain&logoColor=white&style=for-the-badge)
 
 ## 🖥️ Workspace Setup
 ![image](https://img.shields.io/badge/Windows%2011-0078D4.svg?style=for-the-badge&logo=Windows-11&logoColor=white)
