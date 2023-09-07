@@ -20,6 +20,7 @@ I am an AI expert in AI research and development. My expertise is in the field o
 ![image](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
 ![image](https://img.shields.io/badge/YOLO-00FFFF.svg?style=for-the-badge&logo=YOLO&logoColor=black)
 ![image](https://img.shields.io/badge/spaCy-09A3D5.svg?style=for-the-badge&logo=spaCy&logoColor=white)
+![image](https://img.shields.io/badge/-NLTK-1b67a0?logo=python&logoColor=white&style=for-the-badge)
 ![image](https://img.shields.io/badge/OpenAI-412991.svg?style=for-the-badge&logo=OpenAI&logoColor=white)
 ![image](https://img.shields.io/badge/Streamlit-FF4B4B.svg?style=for-the-badge&logo=Streamlit&logoColor=white)
 ![image](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white)
@@ -32,6 +33,7 @@ I am an AI expert in AI research and development. My expertise is in the field o
 ![image](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white)
 ![image](https://img.shields.io/badge/Heroku-430098.svg?style=for-the-badge&logo=Heroku&logoColor=white)
 ![image](https://img.shields.io/badge/-LangChain-32CD32?logo=LangChain&logoColor=white&style=for-the-badge)
+
 
 ## 🖥️ Workspace Setup
 ![image](https://img.shields.io/badge/Windows%2011-0078D4.svg?style=for-the-badge&logo=Windows-11&logoColor=white)
