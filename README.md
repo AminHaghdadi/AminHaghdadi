@@ -1,6 +1,6 @@
-## Hi, I'm Amin! 👋
+# Hi, I'm Amin! 👋
 
-### 🚀 About Me
+## 🚀 About Me
 
 I am an AI expert in AI research and development. My expertise is in the field of machine learning algorithms, deep neural networks, computer vision and natural language processing, and I am also familiar with the design of mechanical and mechatronic systems. My goal is to create and develop solutions based on artificial intelligence to improve performance and productivity in issues.
 ## 🛠️ Skills
@@ -47,4 +47,11 @@ I am an AI expert in AI research and development. My expertise is in the field o
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amin-haghdadi)
 [![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/AminHaghdadi)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB.svg?style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Amin-Haghdadi)
+
+
+## 🔥 My Stats
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=AminHaghdadi&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
 
