@@ -1,5 +1,5 @@
 # Hi, I'm Amin! 👋
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E8F73C&center=true&vCenter=true&width=435&lines=Welcome+To+My+Page;I'm+a+AI+developer;Working+in+NLP+and+Computer+Vision)](https://git.io/typing-svg)
+   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E8F73C&center=false&vCenter=true&width=435&lines=Welcome+To+My+Page;I'm+a+AI+developer;NLP+Enthusiast)](https://git.io/typing-svg)
 
 ## 🚀 About Me
 I am an AI expert in AI research and development. My expertise is in the field of machine learning algorithms, deep neural networks, computer vision and natural language processing, and I am also familiar with the design of mechanical and mechatronic systems. My goal is to create and develop solutions based on artificial intelligence to improve performance and productivity in issues.
